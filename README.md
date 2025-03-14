@@ -1,4 +1,4 @@
-## Hi there 👋
+저는 1학년 5반 14번 최준서입니다.
 
 <!--
 **iandunyku/iandunyku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
